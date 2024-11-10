@@ -1,2 +1,2 @@
-# blockchain.js
-Decentralized Blockchain Network in JavaScript
+# blockchain.php
+Decentralized Blockchain Network in PHP
